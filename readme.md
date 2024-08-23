@@ -17,3 +17,10 @@ You can choose from levels that's set up already, and in each level, there will 
 You can rotate the board and move the board around, when the board was around the target position, there will be an automatic match.
 
 You can also create your own Tangram graphics, but this function still has a small bug.
+
+## Run
+
+The code is initially developed with Dev C++, so you can unzip the zip file, run `unzip Lib.zip`, and acquire the required lib, the simpleGUI and LibGraphics, then use Dev C++ open the .dev file.
+
+Or simplely after unzip, run the .exe file, and you can simply open the game.
+
